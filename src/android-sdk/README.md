@@ -7,7 +7,7 @@ Setup android sdk in your development container
 
 ```json
 "features": {
-    "ghcr.io/pnstack/codespace/android-sdk:1": {}
+    "ghcr.io/pnlab-sg-v2/codespace/android-sdk:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Setup android sdk in your development container
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/pnstack/codespace/blob/main/src/android-sdk/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/pnlab-sg-v2/codespace/blob/main/src/android-sdk/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
